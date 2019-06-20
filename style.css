@@ -1,0 +1,112 @@
+.header
+{
+	/*min-width: 800px;*/
+	min-height: 50px;
+	background-color: #183C5E;
+	border:2px solid black;
+
+}
+/*container 1 start*/
+.container1
+{
+	/*border:1px solid red;*/
+	/*width:200px;*/
+}
+.name
+{
+	margin-left:30px; 
+}
+.name h1
+{
+	line-height: 15px;
+	color:#183C5E;
+}
+.name h3
+{
+	line-height: 10px;
+	font-size: 30px;
+}
+/*container 1 end */
+/*container 2 start */
+.container2
+{
+	min-height: 400px;
+}
+/*wrapper1 start*/
+.wrapper1
+{
+	width:300px;
+	border:2px solid black;
+	color:white;
+	background-color: #183C5E;
+	padding: 25px;
+	float:left;
+
+}
+.contact
+{}
+.contact h4
+{
+	line-height: 15px;
+}
+.language
+{
+	margin-top: 35px;
+}
+.language ul li
+{
+	margin-top: 5px;
+}
+.skills
+{
+	margin-top: 35px;
+}
+.skills ul li
+{
+	margin-top: 5px;
+}
+/*wrapper1 end*/
+/*wrapper2 start*/
+.wrapper2
+{
+	width:950px;
+	float:right;
+	/*border:2px solid red;*/
+}
+.information
+{
+	margin-top: -20px;
+	margin-left: 30px;
+
+}
+.information h2
+{
+	background-color: #183C5E;
+	padding: 8px;
+	color:white;
+	border: 2px solid black;
+}
+.education
+{
+	margin-top: 60px;
+	margin-left: 30px;
+}
+.education h2
+{
+	background-color: #183C5E;
+	padding: 8px;
+	color:white;
+	border: 2px solid black;
+	
+}
+.ssc h3
+{
+	margin-top: 40px;
+}
+.hsc h3
+{
+	margin-top: 40px;
+}
+/*wrapper2 end*/
+
+/*container 2 end */
